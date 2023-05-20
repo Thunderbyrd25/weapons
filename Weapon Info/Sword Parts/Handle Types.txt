@@ -1,0 +1,6 @@
+Orcish Handle
+Elven Handle
+Human Handle
+Draconic Handle
+Goblin Handle
+Dwarven Handle

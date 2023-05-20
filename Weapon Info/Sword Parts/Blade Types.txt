@@ -1,0 +1,6 @@
+Orcish Blade
+Elven Blade
+Human Blade
+Draconic Blade
+Goblin Blade
+Dwarven Blade

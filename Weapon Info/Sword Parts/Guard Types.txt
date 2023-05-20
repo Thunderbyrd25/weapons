@@ -1,0 +1,6 @@
+Orcish Guard
+Elven Guard
+Human Guard
+Draconic Guard
+Goblin Guard
+Dwarven Guard

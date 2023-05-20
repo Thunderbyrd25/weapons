@@ -1,0 +1,6 @@
+Orcish
+Elven
+Human
+Draconic
+Goblin
+Dwarven
